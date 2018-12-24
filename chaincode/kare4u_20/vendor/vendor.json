@@ -1,0 +1,11 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"path": "govalute",
+			"revision": ""
+		}
+	],
+	"rootPath": "kare4u3"
+}
